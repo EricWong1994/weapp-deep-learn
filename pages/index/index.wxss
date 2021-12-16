@@ -1,1 +1,8 @@
 /* pages/index/index.wxss */
+.content {
+  font-size: 16px;
+  color: #f00;
+}
+.btn {
+  font-size: 32rpx;
+}

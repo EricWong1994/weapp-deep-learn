@@ -1,2 +1,2 @@
 <!--pages/logs/logs.wxml-->
-<text>pages/logs/logs.wxml</text>
+<text class="content">pages/logs/logs.wxml</text>

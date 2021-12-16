@@ -1,1 +1,5 @@
 /* pages/logs/logs.wxss */
+.content {
+  font-style: 18rpx;
+  color: #0f0;
+}
